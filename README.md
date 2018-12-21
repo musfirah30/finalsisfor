@@ -1,2 +1,2 @@
 # finalsisfor
-#
+# membuat database company
